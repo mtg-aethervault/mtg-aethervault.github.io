@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.joshey40.aethervault",
+      "sha256_cert_fingerprints": [
+        "F2:D1:49:AE:65:54:4E:4A:7C:23:5B:74:C8:5B:84:D5:D6:0D:8D:13:11:5E:5C:0B:9E:1C:98:6D:36:5A:E4:1B"
+      ]
+    }
+  }
+]
